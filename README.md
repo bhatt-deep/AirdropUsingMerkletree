@@ -1,4 +1,4 @@
-# AirdropUsingMerkletree
+# Airdrop Using Merkletree
 Efficient token Air-drop using Merkle trees
 
 ## How it works?:-
